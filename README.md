@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm amirhossein fadaei</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
+<p >
 <img align='left ' src='tumblr_nh3ivhx9ob1rs61ydo1_500.gif' width='200'>
 <img align='left' src='8f5b1e24aff1cbab8f7c0c163eb11187.gif' width='200'>
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amirhossein_fadaei79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirhossein_fadaei79" height="30" width="40" /></a>
