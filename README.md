@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm amirhossein fadaei</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align='' src='tumblr_nh3ivhx9ob1rs61ydo1_500.gif' width='200"'>
-<img align='' src='8f5b1e24aff1cbab8f7c0c163eb11187.gif' width='200"'>
+<img align='left ' src='tumblr_nh3ivhx9ob1rs61ydo1_500.gif' width='200"'>
+<img align='left' src='8f5b1e24aff1cbab8f7c0c163eb11187.gif' width='200"'>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
